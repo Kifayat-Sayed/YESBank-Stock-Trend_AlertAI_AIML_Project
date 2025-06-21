@@ -181,6 +181,3 @@ M.Sc. AI & ML | Data Science
 📧 [kifayatsayed301@gmail.com](mailto:kifayatsayed301@gmail.com)
 🌐 [LinkedIn](https://linkedin.com/in/kifayat-sayed) | [GitHub Portfolio](https://github.com/Kifayat-Sayed)
 
----
-
-Would you like me to format and generate this as a downloadable `README.md` file as well?
